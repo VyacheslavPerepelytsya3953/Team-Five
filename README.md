@@ -1,15 +1,15 @@
 # Team-Five
 Team Five of Software Project CENG 322
 
-**Team members: **
+**Team members**
 
 Vyacheslav Perepelytsya, Amit Punit, Chris Janelle Mutuc, Andrew Fraser
 
-**Project: **
+**Project**
 
 Blind operator add-on
 
-**Description: **
+**Description**
 
 A smart add-on device that is used to wirelessly operate corded blinds. 
 It will use a dc motor, light sensor, distance sensor, and temperature sensor in order to control and operate blinds wirelessly. 
