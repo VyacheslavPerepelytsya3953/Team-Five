@@ -3,7 +3,7 @@ Team Five of Software Project CENG 322
 
 **Team members**
 
-Vyacheslav Perepelytsya, Amit Punit, Chris Janelle Mutuc, Andrew Fraser
+Vyacheslav Perepelytsya n01133953, Amit Punit n01203930, Chris Janelle Mutuc n01314607, Andrew Fraser n01309442
 
 **Project**
 
