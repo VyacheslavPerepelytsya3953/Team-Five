@@ -1,4 +1,4 @@
-# Team-Five
+# Team-Ten
 Team Five of Software Project CENG 322
 
 **Team members**
